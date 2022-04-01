@@ -1,0 +1,48 @@
+<table style="width:100%;text-align:Right;">
+
+  <tbody><tr>
+    <th colspan="2" style="background-color: Orange;text-align:Right;padding:5px; ">District</th>
+    <th style="background-color: Orange;text-align:Right;">Council Member</th>
+  </tr>
+    <tr>
+    <td style="text-align:Left;border:0px solid white;background-color: whitesmoke;"><font size="4">Currently:</font></td>
+    <td style="border:0px solid white;background-color: whitesmoke;"><a href="https://www.missouricitytx.gov/698/Council-District-Maps" rel="nofollow ugc noopener noreferrer" target="_blank"><font color="#0000ff" size="4"><b>{expression/expr7}{expression/expr8}</b></font> </a></td><td style="border:0px solid white;background-color: whitesmoke;"><a href=" {expression/expr18}" rel="nofollow ugc noopener noreferrer" target="_blank"><font color="#0000ff" size="4">{MEMBER}</font></a><br /></td>
+  </tr>
+  <tr>
+<th colspan="3" style="background-color: LightGrey;"></th>
+  </tr>
+     <tr>
+    <th colspan="3" style="background-color: White;">
+    </th>
+  </tr>
+     <tr>
+    <th colspan="3" style="background-color: White;"></th>
+  </tr>
+  <tr>
+    <td style="text-align:Left;border:0.5px solid LightGrey">Plan A:</td>
+    <td style="border:0.5px solid LightGrey"><a href="{expression/expr10}" rel="nofollow ugc noopener noreferrer" style="font-size: medium;" target="_blank"><b><font color="#0000ff"><span style="background-color: Gold;">{expression/expr1}</span>{expression/expr4}</font></b></a><br /></td> 
+    <td style="border:0.5px solid LightGrey"><a href="{expression/expr15}" rel="nofollow ugc noopener noreferrer" target="_blank"><font color="#0000ff">{A_Member}</font></a><br /></td>
+  </tr>
+  <tr>
+    <td style="text-align:Left;border:0.5px solid LightGrey">Plan B:</td>
+    <td style="border:0.5px solid LightGrey"><a href="{expression/expr9}" rel="nofollow ugc noopener noreferrer" style="font-size: medium;" target="_blank"><b><font color="#0000ff"><span style="background-color: Gold;">{expression/expr2}</span>{expression/expr5}</font><br /></b></a></td> 
+    <td style="border:0.5px solid LightGrey"><a href="{expression/expr16}" rel="nofollow ugc noopener noreferrer" target="_blank"><font color="#0000ff">{B_Member}</font></a><br /></td>
+  </tr>
+   <tr>
+    <td style="text-align:Left;border:0.5px solid LightGrey">Plan C:</td>
+    <td style="border:0.5px solid LightGrey"><a href="{expression/expr11}" rel="nofollow ugc noopener noreferrer" style="font-size: medium;" target="_blank"><b><font color="#0000ff"><span style="background-color: Gold;">{expression/expr3}</span>{expression/expr6}</font></b></a></td>
+    <td style="border:0.5px solid LightGrey"><a href="{expression/expr17}" rel="nofollow ugc noopener noreferrer" target="_blank"><font color="#0000ff">{C_Member}</font></a><br /></td>
+  </tr>
+     <tr>
+    <td style="text-align:Left;border:0.5px solid LightGrey">Plan D:</td>
+    <td style="border:0.5px solid LightGrey"><a href="{expression/expr21}" rel="nofollow ugc noopener noreferrer" style="font-size: medium;" target="_blank"><b><font color="#0000ff"><span style="background-color: Gold;">{expression/expr25}</span>{expression/expr23}</font></b></a></td>
+    <td style="border:0.5px solid LightGrey"><a href="{expression/expr27}" rel="nofollow ugc noopener noreferrer" target="_blank"><font color="#0000ff">{D_Member}</font></a><br /></td>
+  </tr>
+     <tr>
+    <td style="text-align:Left;border:0.5px solid LightGrey">Plan E:</td>
+    <td style="border:0.5px solid LightGrey"><a href="{expression/expr22}" rel="nofollow ugc noopener noreferrer" style="font-size: medium;" target="_blank"><b><font color="#0000ff"><span style="background-color: Gold;">{expression/expr26}</span>{expression/expr24}</font></b></a></td>
+    <td style="border:0.5px solid LightGrey"><a href="{expression/expr28}" rel="nofollow ugc noopener noreferrer" target="_blank"><font color="#0000ff">{E_Member}</font></a><br /></td>
+  </tr>
+</tbody></table>
+
+<br /><br /><i><font color="#2f4f4f">*District result<font style=""><span style="background-color: rgb(255, 255, 255);">s </span><span style="background-color: rgb(255, 215, 0);">highlight </span></font>if the proposed plan changes from the current district.<br /></font></i><br /><div style="font-weight: bold; text-align: center;"><b><u>Download Full Plans </u><br /></b></div>
